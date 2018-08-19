@@ -1,6 +1,6 @@
 # 非谓语动词
 
-每个动词在句子中可以被用作限定动词（谓语动词）或非限定动词（非谓语动词）。限定动词在句中充当谓语，在人称和数上必须和主语保持一致。也就是当一个动词拥有主语和时态时，被称作**限定动词（谓语动词）**：
+每个动词在句子中可以被用作限定动词（谓语动词）或非限定动词（非谓语动词）。限定动词在句中充当谓语，在人称和数上必须和主语保持一致。也就是当一个动词拥有主语和时态时，被称作**限定动词(谓语动词)**：
 
 > _We **want** Irvine to act as club secretary._
 > 
@@ -8,7 +8,7 @@
 > 
 > _Coming home last night, I **saw** a deer run across the road._
 
-**非限定动词（非谓语动词）**不受主语限定，没有人称和数的变化，具有名词、形容词和副词的特征，在句中不能单独充当谓语（但可以和情态动词或助动词一起充当谓语），可以充当主语、宾语、表语、定语、状语、宾语补足语等。常见的形式有`一般形式`、`现在分词形式`、`过去分词形式`和`to动词不定式形式`，当然还有其它形式，如`to动词不定式的进行时(to be teaching)`、`to动词不定式的完成时(to have taught)`和`to动词不定式的被动形式(to be taught)`等：
+**非限定动词(非谓语动词)**不受主语限定，没有人称和数的变化，具有名词、形容词和副词的特征，在句中不能单独充当谓语（但可以和情态动词或助动词一起充当谓语），可以充当主语、宾语、表语、定语、状语、宾语补足语等。常见的形式有`一般形式`、`现在分词形式`、`过去分词形式`和`to动词不定式形式`，当然还有其它形式，如`to动词不定式的进行时(to be teaching)`、`to动词不定式的完成时(to have taught)`和`to动词不定式的被动形式(to be taught)`等：
 
 > _**To open**, tear off the tab._
 > 
@@ -17,8 +17,6 @@
 > _**Worn out** by the heat, they stopped for a drink._
 > 
 > _**That plan failling**, he gave up._
-
-
 
 ## 一般形式
 
@@ -114,7 +112,7 @@
 > 
 > _It was **a mistake for him to buy** that motorbike._
 
--- **在 `动词(如ask、wait等) + for + 名词短语` 的后面：**
+-- **在 `动词(如ask、wait等) + for + 名词短语` 的后面：**
 
 > _They **are waiting for us to decide**._
 
@@ -155,8 +153,6 @@
 > _Did you **meet** Tina? No, I wanted **to**, but she was ill. (meet出现在前面的句子中，I wanted to meet省略meet)._
 > 
 > _Are you going to **visit** the museum? Yes, we hope **to**._
-
-
 
 2. `ing形式`有如下用法：
 

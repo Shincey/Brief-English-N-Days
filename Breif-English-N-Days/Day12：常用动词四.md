@@ -1,4 +1,4 @@
-# 常用动词(Like、Look、Marry、Devorce)
+# 常用动词(Like、Look、Marry、Divorce)
 
 ### Like
 
