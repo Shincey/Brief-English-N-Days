@@ -4,7 +4,7 @@
 
 1. **介词必须让连接起来的词在句子中关系明确，大多数介词在一定程度上可以替换**
 
-2. **介词必须跟具有名词性质的词**
+2. **介词必须跟具有名词性质的词**（或者理解为跟一个东西）
 
    > _They first met **at** a party (介词+名词短语)_
    > 
@@ -14,7 +14,7 @@
    > 
    > _She's decided **on** doing a Chinese language course. (介词+ing)_
    > 
-   > _We were really surprised **at** what they wrote._
+   > _We were really surprised **at** what they wrote. (介词+what、who、where等)_
 
 简单的介词包含一个单词，如`in`、`on`等；复杂的介词包含多个单词，如`due to`、`together with`、`on top of`、`out of`等等。
 
@@ -85,4 +85,3 @@
 更多关于时间介词方面的，参考前面的文章。
 
 接下来在继续具体的学习一些常用的介词。
-
