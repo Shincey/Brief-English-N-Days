@@ -10,7 +10,7 @@
 
 - 每个小节之间并没有太多的联系，所以可以直接挑选着浏览，不必依次按顺序浏览
 
-- 本系列还发表在[简书平台](https://www.jianshu.com/nb/26277782)，未经作者允许禁止转载
+- 未经作者允许禁止转载
 
 ### Contents
 
@@ -42,6 +42,6 @@
 
 - [Day14：常用动词六](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day14%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E5%85%AD.md)
 
-- [Day15：介词]()
+- [Day15：介词](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day15：介词.md)
 
 **未完待续...**
