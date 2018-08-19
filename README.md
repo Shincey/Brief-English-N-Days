@@ -30,18 +30,20 @@
 
 - [Day8：Be动词及常用搭配](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day8%EF%BC%9ABe%E5%8A%A8%E8%AF%8D%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%90%AD%E9%85%8D.md)
 
-- [Day9：常用动词一](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day9%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%B8%80.md)
+- [Day9：常用动词一(Appear、Arrive、Ask、Come、Do)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day9%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%B8%80.md)
 
-- [Day10：常用动词二](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day10%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%BA%8C.md)
+- [Day10：常用动词二(Get、Put、Make、Go、Enjoy、Explain)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day10%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%BA%8C.md)
 
-- [Day11：常用动词三](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day11%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%B8%89.md)
+- [Day11：常用动词三(Have、Happen、Hope、Know)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day11%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%B8%89.md)
 
-- [Day12：常用动词四](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day12%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E5%9B%9B.md)
+- [Day12：常用动词四(Like、Look、Marry、Divorce)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day12%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E5%9B%9B.md)
 
-- [Day13：常用动词五](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day13%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%BA%94.md)
+- [Day13：常用动词五(Matter、Mean、Miss)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day13%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E4%BA%94.md)
 
-- [Day14：常用动词六](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day14%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E5%85%AD.md)
+- [Day14：常用动词六(Think、Want、Wish、Need)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day14%EF%BC%9A%E5%B8%B8%E7%94%A8%E5%8A%A8%E8%AF%8D%E5%85%AD.md)
 
 - [Day15：介词](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day15：介词.md)
+
+- [Day16：常用介词一(Above、After、Against)](https://github.com/Shincey/Brief-English-N-Days/blob/master/Breif-English-N-Days/Day16：常用介词一.md)
 
 **未完待续...**
