@@ -1,4 +1,4 @@
-# 常用介词(Below、Under、Beneath、Over)
+# 常用介词(Below、Under、Beneath、Over、Beyond)
 
 **Below**
 
@@ -74,35 +74,31 @@
    > 
    > _Not: ... ~~underneath five kilos~~._
 
-
-
 **Beneath**
 
 1. `beneath`作为介词常用于正式写作，不经常用于非正式说话中。在口语中，`under`和`below`更常用些。`beneath`更多的用来描述一个物体的位置比其他物体的位置处于一个`lower lever`：
 
-   > _The metro station is right **beneath** the airport. (地铁站在机场下面)_
+   > _The metro station is right **beneath** the airport. (地铁站在机场下面)_
 
-   `beneath`还特别常用于指某地皮或表面直接在某人脚下：
+   
+`beneath`还特别常用于指某地皮或表面直接在某人脚下：
 
-   > _She could feel the train coming because the ground **beneath** her feet was moving. (感觉到脚下的地在震动)_
-
+   > _She could feel the train coming because the ground **beneath** her feet was moving. (感觉到脚下的地在震动)_
    1. `beneath`和`under`、`below`有着类似的意思，但是后面不跟数字：
 
-      > _We bought it for just **under** 200 pounds._
+      > _We bought it for just **under** 200 pounds._
       > 
       > _Not: ... ~~for just beneath 200 pounds~~._
       > 
-      > _The temprature was **below** zero all that week._
+      > _The temprature was **below** zero all that week._
       > 
-      > _Not: ~~The temprature was beneath~~ ..._
+      > _Not: ~~The temprature was beneath~~ ..._
 
       我们用`beneath`而不是`under`去谈论比某人能力、状态、期望低的情况：
 
-      > _The writing and grammar courses were good but maybe a bit **beneath** my expectations. (比期望差一点)_
+      > _The writing and grammar courses were good but maybe a bit **beneath** my expectations. (比期望差一点)_
       > 
       > _Not: ... ~~maybe a bit under my expectations~~._
-
-      
 
 **Over**
 
@@ -163,3 +159,27 @@
    > _That new restaurant is **overpriced** if you ask me._
    > 
    > _I didn't enjoy the play. It was a student production, and everyone seemed to be **overacting**._
+
+
+
+**Beyond**
+
+1. `beyond`指地点的时候意思是比什么在距离上更远：
+
+   > _**Beyond** the door was a narrow corridor that led off to the right. (门外面是一条狭窄的走廊)_
+   > 
+   > _He could see the horse in the field, just **beyond** the hedge._
+
+2. `beyond`还可以指超过什么限制，如果后面跟时间表达式则表示在这个时间之后或比这个时间更久远：
+
+   > _It's impossible to predict **beyond the next five years** as regards world economic trends. (不能预测比五年更久远了)_
+
+   还常有以下短语组合：
+
+   > _That the government should want to tax the poor even more heavily is **beyond belief**. (没有一个人会相信它)_
+   > 
+   > _Her commitment to her profession is **beyond doubt**. (没有一个人会怀疑它)_
+   > 
+   > _The mechanic announced that the engine was **beyond repair**. (不能在修理了)_
+
+   
