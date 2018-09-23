@@ -8,7 +8,7 @@
    > 
    > _I have to have my window open **during** the night. (整个夜晚)_
 
-2. 有时和in`的意思也很像：
+2. 有时和`in`的意思也很像：
 
    > _His grandfather fought in the army **during** the First World War. (during 换成 in 也行)_
    > 
